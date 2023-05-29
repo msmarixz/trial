@@ -1,0 +1,89 @@
+/*INDEX.CSS*/
+
+/*CSS Reset Rule */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* #imgsdcalogo*/
+img#imgsdcalogo {
+	width: 200px;
+	height: 100px; 
+}
+
+#imgsdcahome {
+	width: 450px;
+	height: 300px;
+}
+
+header {
+	text-align: center;
+}
+
+nav {
+	padding: 10px;
+	margin-bottom: 20px;
+	border: 0;
+	text-align:center;
+	/*border: 1px solid gray;*/
+}
+
+a {
+	margin-right: 30px;
+	text-decoration: none; 
+}
+
+/*this is the section 1 */
+#home-bed-shs-hed {
+	text-align: center;
+}
+
+#intro-sdca {
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	
+	/*padding: 40px 10% 30px 10%; */
+	
+	text-align: center;
+	background-color: pink;
+	/*background-color: pink;*/
+	/*background-image: url('../images/sdcabldg.jpg');
+	background-size: 100%;*/
+	
+}
+
+#vision-mission-corevalues {
+	/*background-color: green;*/
+	padding: 40px 10% 30px 10%;
+	text-align:center;
+}
+
+.vmcv {
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px 10px;
+}
+
+ul {
+	list-style-type: none;
+	font-weight: bolder;
+}
+
+#foot {
+	text-align: right;
+	padding-right: 30px;
+}	
+
+
+
+
